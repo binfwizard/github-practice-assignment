@@ -9,4 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```
+3 + 3 
+```
+
+---
+I expect to put comments on my code, figure descriptions, and README information in text blocks outside of the actual code. 
+---
+
+
+
 
